@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">MapRequest1</string>
+  <string name="action_settings">Display Treasure Location</string>
+  <string name="instructions">
+    Select \"Display Treasure Location\" from settings.\n
+    This invokes the Google map app to display\n
+    geo:0,0?q=34.99,-106.61(Treasure)\n
+    request as documented in\n
+    https://developer.android.com/guide/components/intents-common\n
+    \n
+    Works properly with Maps version 9.77.5.  Does not work with versions 10.16.7 and 10.27.2\n
+    Instead of displaying the "Treasure" label it shows the GPS coordinates twice.
+  </string>
+</resources>
