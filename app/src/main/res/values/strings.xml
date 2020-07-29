@@ -9,6 +9,8 @@
     https://developer.android.com/guide/components/intents-common\n
     \n
     Works properly with Maps version 9.77.5.  Does not work with versions 10.16.7 and 10.27.2\n
-    Instead of displaying the "Treasure" label it shows the GPS coordinates twice.
+    Instead of displaying the "Treasure" label it shows the GPS coordinates twice.\n
+    \n
+    Still failing with version 10.46.2
   </string>
 </resources>
